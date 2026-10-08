@@ -768,7 +768,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
-  🔓 🔑 - Plan real Uniswap liquidity on Robinhood Chain as unsigned transactions, or play money in an agent arena; the arena needs a free key.
+  🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
